@@ -1,6 +1,10 @@
 # Sample Cloud Native  - Spring Boot application
 The purpose of this project is to demonstrate how we can use cloud native buildpacks to create docker image.
 
+# PREREQUISITE
+- You need a running Docker environment
+- When this is run within Kubernetes, you don't have!!!
+
 # How to build and run
 
 project can be compiled with JDK 8 and above `javac`.
